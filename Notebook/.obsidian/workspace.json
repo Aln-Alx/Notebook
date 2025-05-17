@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "9e4949e7e7ead399",
+    "type": "split",
+    "children": [
+      {
+        "id": "055a36bdd7180aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea4165e96e54f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Notes/Macbeth - Markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macbeth - Markdown"
+            }
+          },
+          {
+            "id": "b8f867c1e7ec31f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfda67f388456c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "487debeb5224d139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f899452c376cde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "979ae5be5f3d55c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea88f5dacfe730b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5124969482422
+  },
+  "right": {
+    "id": "22ca47224c2f5340",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a44ed6398aa2700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a76a1b28583680",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9078c41830e2338e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "669915769c4fe258",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "649001a0ef281949",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "650d651c7b6e9510",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0ea0c2110504e567",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b8f867c1e7ec31f1",
+  "lastOpenFiles": [
+    "init.md",
+    "School/Notes/Macbeth - Markdown.md",
+    "Untitled.md",
+    "Assets/Pasted image 20250511135846.png",
+    "Assets/Pasted image 20250511135618.png",
+    "Untitled",
+    "School/Archive/English/Macbeth/Macbeth - Main.md",
+    "Assets",
+    "School/Notes/English/Macbeth/Macbeth - Main.md",
+    "School/Archive/Science",
+    "School/Archive/Maths",
+    "School/Archive/Humanities",
+    "School/Archive/German",
+    "School/Archive/English/Macbeth",
+    "School/Archive/English",
+    "School/Archive/Computer Science",
+    "School/Notes/English/Macbeth/cover.jpg",
+    "School/Notes/English/Macbeth/Macbeth.html",
+    "School/Notes/English/cover.jpg",
+    "Welcome.md"
+  ]
+}
